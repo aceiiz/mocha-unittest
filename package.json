@@ -5,8 +5,8 @@
   "main": "index.js",
   "author": "aceiiz",
   "license": "ISC",
-  "scripts":{
-    "test":"mocha"
+  "scripts": {
+    "test": "mocha"
   },
   "devDependencies": {
     "chai": "^4.2.0",
